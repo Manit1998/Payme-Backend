@@ -11,4 +11,4 @@ django-oauth-toolkit==1.2.0
 django-picklefield==2.0
 tablib==0.13.0
 uritemplate==3.0.0
-urllib3==1.25.3
+urllib3==1.25.8
